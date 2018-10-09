@@ -1,2 +1,4 @@
 O que acontece ao iniciar um repositório? Por que você precisa fazer isso? 
-Ele cria um arquivo oculto, para mandar aquivos do pc para o repositorio
+Ele cria um arquivo oculto, para mandar aquivos do pc para o repositorio.
+Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+A area de preparação você pode verificar quais são os arquivos que você quer mandar e coloca-los um por vez se quiser, e repositorio uni os arquivos enviados ao um diretorio. Oferece uma maior segurança epara confirmar o que vai ser enviado.
