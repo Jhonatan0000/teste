@@ -1,0 +1,2 @@
+Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+quando for preciso trabalhar em conjuto ou para publicar seus projetos e os codigos-fonte
